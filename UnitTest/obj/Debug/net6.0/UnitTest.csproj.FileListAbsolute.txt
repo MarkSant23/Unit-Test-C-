@@ -1,0 +1,14 @@
+D:\dotnet-lab\UnitTest\UnitTest\bin\Debug\net6.0\UnitTest.exe
+D:\dotnet-lab\UnitTest\UnitTest\bin\Debug\net6.0\UnitTest.deps.json
+D:\dotnet-lab\UnitTest\UnitTest\bin\Debug\net6.0\UnitTest.runtimeconfig.json
+D:\dotnet-lab\UnitTest\UnitTest\bin\Debug\net6.0\UnitTest.dll
+D:\dotnet-lab\UnitTest\UnitTest\bin\Debug\net6.0\ref\UnitTest.dll
+D:\dotnet-lab\UnitTest\UnitTest\bin\Debug\net6.0\UnitTest.pdb
+D:\dotnet-lab\UnitTest\UnitTest\obj\Debug\net6.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet-lab\UnitTest\UnitTest\obj\Debug\net6.0\UnitTest.AssemblyInfoInputs.cache
+D:\dotnet-lab\UnitTest\UnitTest\obj\Debug\net6.0\UnitTest.AssemblyInfo.cs
+D:\dotnet-lab\UnitTest\UnitTest\obj\Debug\net6.0\UnitTest.csproj.CoreCompileInputs.cache
+D:\dotnet-lab\UnitTest\UnitTest\obj\Debug\net6.0\UnitTest.dll
+D:\dotnet-lab\UnitTest\UnitTest\obj\Debug\net6.0\ref\UnitTest.dll
+D:\dotnet-lab\UnitTest\UnitTest\obj\Debug\net6.0\UnitTest.pdb
+D:\dotnet-lab\UnitTest\UnitTest\obj\Debug\net6.0\UnitTest.genruntimeconfig.cache
